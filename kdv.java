@@ -1,4 +1,3 @@
-package proje;
 import java.util.Scanner;
 public class kdv {
 
@@ -16,3 +15,4 @@ public class kdv {
 	}
 
 }
+
